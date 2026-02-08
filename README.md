@@ -1,6 +1,6 @@
 # Kanna's Hub
-📫 How to reach me: 225040526@link.cuhk.edu.cn
-🌱 I’m currently learning agent developing techniques & aim to be an front end developer
+- 📫 How to reach me: 225040526@link.cuhk.edu.cn
+- 🌱 I’m currently learning front end and agent developing techniques.
 
 <!--
 **KannaMoon112/KannaMoon112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
