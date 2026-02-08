@@ -1,4 +1,6 @@
-## Hi there 👋
+#Kanna's Hub
+📫 How to reach me: 225040526@link.cuhk.edu.cn
+🌱 I’m currently learning agent developing techniques & aim to be an front end developer
 
 <!--
 **KannaMoon112/KannaMoon112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
